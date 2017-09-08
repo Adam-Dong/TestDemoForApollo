@@ -1,0 +1,25 @@
+PODS:
+  - CocoaLumberjack/Default (3.2.1)
+  - CocoaLumberjack/Swift (3.2.1):
+    - CocoaLumberjack/Default
+  - Crashlytics (3.8.6):
+    - Fabric (~> 1.6.3)
+  - Fabric (1.6.13)
+  - NSLogger/ObjC (1.8.3)
+  - NSLogger/Swift (1.8.3):
+    - NSLogger/ObjC
+
+DEPENDENCIES:
+  - CocoaLumberjack/Swift
+  - Crashlytics
+  - NSLogger/Swift
+
+SPEC CHECKSUMS:
+  CocoaLumberjack: 2800c03334042fe80589423c8d80e582dcaec482
+  Crashlytics: 95d05f4e4c19a771250c4bd9ce344d996de32bbf
+  Fabric: 2fb5676bc811af011a04513451f463dac6803206
+  NSLogger: c9b80dbeee1d65eb553647a1f6f1f72171b04808
+
+PODFILE CHECKSUM: fbaa18bc38e49cb9e9dccc849fbd8ecdb145decd
+
+COCOAPODS: 1.2.0

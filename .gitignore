@@ -1,0 +1,5 @@
+# CocoaPods
+# Currently, we are following the convention that Podfile.lock and Podfile be checked in, but not the Pods directory.
+# https://guides.cocoapods.org/using/using-cocoapods.html#should-i-check-the-pods-directory-into-source-control
+Pods
+
